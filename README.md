@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-This repository serves as my Digital Literacy Portfolio, created as part of the CSE0001 course project. In the scenario, I am a newly appointed Student Digital Ambassador tasked with helping my peers navigate the digital world responsibly and professionally.
+This repository serves as my Digital Literacy Portfolio, created as part of the CSE1001 course project. In the scenario, I am a newly appointed Student Digital Ambassador tasked with helping my peers navigate the digital world responsibly and professionally.
 
 This portfolio showcases my work across five key digital literacy modules. It includes visual resources, professional profiles, practical exercises, and awareness materials—all organized to demonstrate a comprehensive understanding of digital tools, online safety, and professional communication.
 
